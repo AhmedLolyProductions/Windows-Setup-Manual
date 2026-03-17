@@ -4,5 +4,6 @@ Winareo Tweaker
 O&O ShutUp 10++
 CTT WinTool
 ThioJoe SVG icon
+BCUninstaller (Bulk Crap Uninstaller)
 
 *This is a small list, I have more to come*
