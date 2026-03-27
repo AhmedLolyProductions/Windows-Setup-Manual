@@ -2,8 +2,9 @@ List of third parties:
 
 Winaero Tweaker
 O&O ShutUp 10++
-CTT WinTool
+CTT WinUtil
 ThioJoe SVG icon
 BCUninstaller (Bulk Crap Uninstaller)
 DISM++
 Port Master
+CTT BypassNRO
