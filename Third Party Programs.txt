@@ -14,3 +14,5 @@ Useful tools:
 Firewalls:
 - Port Master (recommended)
 - WFC (Windows Firewall Control by Malwarebytes)
+
+Other programs: sordum.org
