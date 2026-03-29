@@ -1,10 +1,16 @@
 List of third parties:
 
-Winaero Tweaker
-O&O ShutUp 10++
-CTT WinUtil
-ThioJoe SVG icon
-BCUninstaller (Bulk Crap Uninstaller)
-DISM++
-Port Master
-CTT BypassNRO
+Setup Tools:
+- Winaero Tweaker
+- O&O ShutUp 10++
+- CTT WinUtil
+- DISM++
+- CTT BypassNRO
+
+Useful tools:
+- ThioJoe SVG icon
+- BCUninstaller (Bulk Crap Uninstaller)
+
+Firewalls:
+- Port Master (recommended)
+- WFC (Windows Firewall Control by Malwarebytes)
