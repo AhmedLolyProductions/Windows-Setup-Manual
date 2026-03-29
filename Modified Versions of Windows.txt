@@ -1,0 +1,9 @@
+These are community moddified versions of Windows.
+
+Lightweight:
+- Tiny11
+- TinyCore11
+- Nano11
+
+Privacy + Speed:
+- AtlasOS (recommended, but painful to update)
