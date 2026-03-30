@@ -7,12 +7,12 @@ Setup Tools:
 - DISM++
 - CTT BypassNRO
 
-Useful tools:
-- ThioJoe SVG icon
-- BCUninstaller (Bulk Crap Uninstaller)
-
 Firewalls:
 - Port Master (recommended)
 - WFC (Windows Firewall Control by Malwarebytes)
 
-Other programs: sordum.org
+Useful tools (after setup):
+- ThioJoe SVG icon
+- BCUninstaller (Bulk Crap Uninstaller)
+
+Other tools for setup and non-setup purposes can be found at sordum.org, a place full of handy, portable tools!
