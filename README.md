@@ -4,8 +4,8 @@ A curated list of trusted third-party tools and YouTube tutorials "to set up Win
 
 ### ✅ What These Methods Do
 
-- **Debloat**\
-- **Privacy Hardening**\
-- **Security Hardening**\
-- **Optimizing** \
+- **Debloat**
+- **Privacy Hardening**
+- **Security Hardening**
+- **Optimizing**
 - **Speed Up**
