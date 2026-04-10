@@ -1,6 +1,8 @@
 ## 🛠️ Proper Windows Setup
 
-A list of trusted third-party tools, YouTube tutorials and more on "how to set up Windows... the PROPER way" -Linus Sebastian
+A list of trusted third-party tools, YouTube tutorials and more on<br>
+"how to set up Windows... the PROPER way"
+> Linus Sebastian
 
 ### ✅ What These Methods Do
 
