@@ -1,18 +1,19 @@
-List of third parties:
+# List of third parties:
 
-Setup Tools:
+## Setup Tools:
 - Winaero Tweaker
 - O&O ShutUp 10++
 - CTT WinUtil
 - DISM++
 - CTT BypassNRO
 
-Firewalls:
+## Firewalls:
 - Port Master (recommended)
 - WFC (Windows Firewall Control by Malwarebytes)
 
-Useful tools (after setup):
+## Useful tools (after setup):
 - ThioJoe SVG icon
 - BCUninstaller (Bulk Crap Uninstaller)
 
-Other tools for setup and non-setup purposes can be found at sordum.org, a place full of handy, portable tools!
+> [!NOTE]
+> Other tools for setup and non-setup purposes can be found at sordum.org, a place full of handy, portable tools!
