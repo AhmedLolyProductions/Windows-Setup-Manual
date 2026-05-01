@@ -7,3 +7,7 @@ These are community modified versions of Windows.
 
 ## Privacy + Speed
 - AtlasOS (recommended, but painful to update)
+
+## Alternatives to Windows (Linux distros)
+- ZorinOS (best for beginners)
+- Linux Mint (more for advanced users)
