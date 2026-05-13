@@ -1,8 +1,8 @@
-- Padsala Tushal
-- Jeffrey
-- Safing
-- Marcin Szeniak
-- Chuyu Team
-- Chris Titus
-- ThioJoe
-- Techlore
+- [Padsala Tushal](https://github.com/padsalatushal)
+- [Jeffrey](https://github.com/Raphire)
+- [Safing](https://github.com/safing)
+- [Marcin Szeniak](https://github.com/Klocman)
+- [Chuyu Team](https://github.com/Chuyu-Team)
+- [Chris Titus](https://github.com/ChrisTitusTech)
+- [ThioJoe](https://github.com/ThioJoe)
+- [Techlore](https://github.com/techlore)
