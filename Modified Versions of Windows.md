@@ -1,13 +1,13 @@
 These are community modified versions of Windows.
 
 ## Lightweight
-- Tiny11
-- TinyCore11
-- Nano11
+- [Tiny11](https://github.com/ntdevlabs/tiny11builder) (best for normal Windows users)
+- [TinyCore11](https://github.com/ntdevlabs/tiny11builder)
+- [Nano11](https://github.com/ntdevlabs/nano11)
 
 ## Privacy + Speed
-- AtlasOS (recommended, but painful to update)
+- [AtlasOS](https://atlasos.net) (recommended, but painful to update)
 
 ## Alternatives to Windows (Linux distros)
-- ZorinOS (best for beginners)
-- Linux Mint (more for advanced users)
+- [ZorinOS](https://zorin.com) (best for beginners)
+- [kubuntu](https://kubuntu.org) (a bit more advanced)
