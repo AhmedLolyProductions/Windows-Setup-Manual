@@ -5,7 +5,7 @@ These are community modified versions of Windows.
 - [TinyCore11](https://github.com/ntdevlabs/tiny11builder)
 - [Nano11](https://github.com/ntdevlabs/nano11)
 
-## Privacy + Speed
+## Privacy + Security
 - [AtlasOS](https://atlasos.net) (recommended, but painful to update)
 - [Loly11](https://github.com/AhmedLolyProductions/Loly11) (made by me! (and recommended by me 😁))
 
