@@ -7,6 +7,7 @@ These are community modified versions of Windows.
 
 ## Privacy + Speed
 - [AtlasOS](https://atlasos.net) (recommended, but painful to update)
+- [Loly11](https://github.com/AhmedLolyProductions/Loly11) (made by me! (and recommended by me 😁))
 
 ## Alternatives to Windows (Linux distros)
 - [ZorinOS](https://zorin.com) (best for beginners)
