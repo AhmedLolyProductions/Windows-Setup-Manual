@@ -14,6 +14,7 @@
 ## Useful tools (after setup):
 - [ThioJoe SVG icon](https://github.com/ThioJoe/win-svg-thumbs-rust)
 - [BCUninstaller (Bulk Crap Uninstaller)](https://www.bcuninstaller.com)
+- [ThioJoe Background App Notifier](https://github.com/ThioJoe/Thio-Background-App-Notifier)
 
 > [!NOTE]
 > Other tools for setup and non-setup purposes can be found at [sordum.org](https://www.sordum.org), a place full of handy, portable tools!
