@@ -5,4 +5,4 @@
 - [balenaEtcher](https://etcher.balena.io/)
 
 ### When choosing your region in Windows Setup
-Choose International (many people recommend this because it prevents installation of bloatware)
+Choose International (this prevents the installation of bloatware)
