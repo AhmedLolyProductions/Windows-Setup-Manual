@@ -1,7 +1,8 @@
-Linus Tech Tips: youtube.com/@LinusTechTips
-ThioJoe: youtube.com/@ThioJoe; github.com/ThioJoe
-Chris Titus Tech: youtube.com/@ChrisTitusTech; github.com/ChrisTitusTech
-Bog: youtube.com/@bogxd
-Techlore: youtube.com/@techlore
-Techlore Clips: youtube.com/@techloreclips
-ShortCircuit: youtube.com/@ShortCircuit
+Linus Tech Tips: [youtube.com/@LinusTechTips](https://YouTube.com/@LinusTechTips)
+ThioJoe: [youtube.com/@ThioJoe](https://YouTube.com/@ThioJoe); [github.com/ThioJoe](https://github.com/ThioJoe)
+ChrisTitusTech: [youtube.com/@ChrisTitusTech](https://youtube.com/@ChrisTitusTech); [youtube.com/@ChrisTitusTechnical](https://youtube.com/@ChrisTitusTechnical); [github.com/ChrisTitusTech](https://github.com/ChrisTitusTech)
+Techlore: [youtube.com/@techlore](https://youtube.com/@techlore)
+Techlore Clips: [youtube.com/@techloreclips](https://youtube.com/@techloreclips)
+Proton: [youtube.com/@proton](https://youtube.com/@proton)
+Liron Segev: [youtube.com/@lironsegev](https://youtube.com/@lironsegev)
+NetworkChuck: [youtube.com/@networkchuck](https://youtube.com/@networkchuck)
